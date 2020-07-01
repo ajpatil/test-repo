@@ -8,4 +8,10 @@ This should only be in exbranch1.
 
 I have now merged this!
 
+exbranch2
 This is the sencond ex branch
+
+Editing the master branch
+
+master branch
+
